@@ -1,0 +1,11 @@
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\obj\Debug\netcoreapp2.0\WorkTest.csprojResolveAssemblyReference.cache
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\obj\Debug\netcoreapp2.0\WorkTest.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\obj\Debug\netcoreapp2.0\WorkTest.AssemblyInfoInputs.cache
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\obj\Debug\netcoreapp2.0\WorkTest.AssemblyInfo.cs
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\bin\Debug\netcoreapp2.0\WorkTest.deps.json
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\bin\Debug\netcoreapp2.0\WorkTest.runtimeconfig.json
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\bin\Debug\netcoreapp2.0\WorkTest.runtimeconfig.dev.json
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\bin\Debug\netcoreapp2.0\WorkTest.dll
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\bin\Debug\netcoreapp2.0\WorkTest.pdb
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\obj\Debug\netcoreapp2.0\WorkTest.dll
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\obj\Debug\netcoreapp2.0\WorkTest.pdb
