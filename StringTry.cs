@@ -14,7 +14,7 @@ namespace WorkTest
             _text = text;
         }
 
-        public void CountDistinct()
+        public int CountDistinct()
         {
             if (string.IsNullOrWhiteSpace(_text))
                 _text = "MSLKFFPOKPOKAEMLE";
@@ -30,6 +30,8 @@ namespace WorkTest
             {
                 Console.WriteLine($"{it.character} count = {it.count}");
             }
+
+            return charactersCount.Count;
         }
 
         public override bool Equals(object obj)
