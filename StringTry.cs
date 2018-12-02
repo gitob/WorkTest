@@ -8,7 +8,7 @@ namespace WorkTest
     public class StringTry
     {
         private string _text;
-
+        public string str;
         public StringTry(string text)
         {
             _text = text;
