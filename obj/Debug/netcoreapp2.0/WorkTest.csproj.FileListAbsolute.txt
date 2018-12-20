@@ -9,3 +9,4 @@ C:\Users\BRIAN\source\repos\WorkTest\WorkTest\bin\Debug\netcoreapp2.0\WorkTest.d
 C:\Users\BRIAN\source\repos\WorkTest\WorkTest\bin\Debug\netcoreapp2.0\WorkTest.pdb
 C:\Users\BRIAN\source\repos\WorkTest\WorkTest\obj\Debug\netcoreapp2.0\WorkTest.dll
 C:\Users\BRIAN\source\repos\WorkTest\WorkTest\obj\Debug\netcoreapp2.0\WorkTest.pdb
+C:\Users\BRIAN\source\repos\WorkTest\WorkTest\obj\Debug\netcoreapp2.0\WorkTest.csprojAssemblyReference.cache
